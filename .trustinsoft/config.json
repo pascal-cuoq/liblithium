@@ -1,5 +1,10 @@
 [
     {
+        "name": "Decrypt",
+        "include": "base.json",
+        "files": ["decrypt.c"]
+    },    
+    {
         "name": "Hash",
         "include": "base.json",
         "files": ["hash.c"]
