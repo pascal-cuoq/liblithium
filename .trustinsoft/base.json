@@ -11,5 +11,5 @@
     "cpp-extra-args": "-I../include -DLITH_VECTORIZE=0 -DLITH_LITTLE_ENDIAN=0 -DLITH_X25519_WBITS=32",
     "val-profile": "analyzer",
     "no-results": true,
-    "slevel": 1024
+    "slevel": 3000
 }
